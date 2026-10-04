@@ -1,4 +1,4 @@
-# HolmesAmzish
+# Sheng Zihan
 
 ## Profile
 
@@ -11,7 +11,7 @@
 
 ## Technical Stacks
 
-Language: Java/Kotlin, Python, C#, TypeScript, C++, PHP
+Language: Java/Kotlin, GO, Python, C#, TypeScript, PHP
 
 ## Coding Activity
 
